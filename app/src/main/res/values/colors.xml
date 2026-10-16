@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Palette inspired by "The Scream" -->
+    <color name="museum_primary">#1C2E4A</color> <!-- Deep Navy Blue -->
+    <color name="museum_primary_dark">#0F1A2A</color>
+    <color name="museum_accent">#D35400</color> <!-- Sunset Orange -->
+    <color name="museum_gold">#E5C07B</color> <!-- Muted Gold -->
+    <color name="museum_bg">#FDFEFE</color>
+    <color name="museum_surface">#FFFFFF</color>
+    <color name="museum_text_primary">#1C2E4A</color>
+    <color name="museum_text_secondary">#5D6D7E</color>
+    <color name="error_red">#C0392B</color>
+    <color name="success_green">#27AE60</color>
+</resources>

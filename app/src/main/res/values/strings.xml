@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">National Museum Tech</string>
+    <string name="welcome">Explore a Arte e a Tecnologia</string>
+    <string name="welcome_subtitle">Uma jornada imersiva pelo conhecimento.</string>
+    <string name="enter">Iniciar Experiência</string>
+    <string name="logo_desc">Logo do Museu</string>
+
+    <!-- Main Menu -->
+    <string name="exhibitions">Exposições Ativas</string>
+    <string name="map">Mapa Interativo</string>
+    <string name="map_desc">Localize-se e encontre galerias via GPS.</string>
+    <string name="ar_guide">Galeria Virtual 360°</string>
+    <string name="ar_guide_desc">Use o acelerômetro para explorar detalhes.</string>
+    <string name="scan_bluetooth">Detector de Obras</string>
+    <string name="scan_bluetooth_desc">Encontre obras próximas via Bluetooth.</string>
+
+    <!-- GPS / Map -->
+    <string name="gps_permission_title">Acesso à Localização</string>
+    <string name="gps_permission_desc">Para mostrar sua posição exata no museu e sugerir a galeria mais próxima, precisamos acessar seu GPS.</string>
+    <string name="allow">Permitir Acesso</string>
+    <string name="deny">Agora Não</string>
+    <string name="map_instruction">O ponto azul indica sua posição atual no Grande Hall.</string>
+    <string name="map_bg_desc">Padrão de fundo do mapa</string>
+    <string name="user_loc_desc">Sua localização</string>
+    <string name="gps_connected">Status do GPS: Conectado</string>
+    <string name="nearest_gallery">Galeria mais próxima: Arte Moderna (15m)</string>
+    <string name="close">Fechar</string>
+
+    <!-- Bluetooth -->
+    <string name="bt_searching">Sincronizando com sensores da galeria...</string>
+    <string name="bt_found_title">Obra Identificada!</string>
+    <string name="bt_found_name">\"O Grito\" - Edvard Munch (1893)</string>
+    <string name="bt_found_desc">Esta obra é uma das mais icônicas do expressionismo.</string>
+    <string name="bt_not_found">Aproxime-se de uma obra com tag Bluetooth.</string>
+    <string name="bt_hint">Mantenha o Bluetooth ativado para detecção automática.</string>
+    <string name="btn_view_artwork">Ver Detalhes da Obra</string>
+    <string name="btn_cancel_search">Cancelar Busca</string>
+
+    <!-- Details / Accelerometer -->
+    <string name="detail_title">Detalhes da Obra</string>
+    <string name="accelerometer_desc">Movimente seu smartphone para os lados para explorar a textura da pintura em alta definição.</string>
+    <string name="artwork_history">História: Esta pintura representa a angústia existencial e é a peça central da nossa Galeria de Arte Moderna.</string>
+    <string name="artwork_info">Óleo sobre tela, 1893 | Galeria Nacional</string>
+    <string name="about_artwork">Sobre a Obra</string>
+    <string name="back_to_catalog">Voltar ao Catálogo</string>
+    <string name="artwork_img_desc">Imagem da Obra</string>
+    <string name="accel_icon_desc">Ícone do Acelerômetro</string>
+
+    <!-- Errors -->
+    <string name="error_title">Ops! Algo deu errado</string>
+    <string name="error_gps">Não conseguimos acessar sua localização. Algumas funcionalidades do mapa estarão limitadas.</string>
+    <string name="btn_retry">Tentar Novamente</string>
+    <string name="btn_back">Voltar ao Início</string>
+</resources>
